@@ -1,0 +1,34 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+
+.card-subtitle{
+    font-family: monospace;
+    letter-spacing: 3px;
+    color: hsl(228, 12%, 48%);
+}
+
+.card-title{
+    font-family: serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.card-price{
+    font-size: 30px;
+    font-family: Montserrat;
+}
+
+.card-text{
+    font-weight: 500;
+    color: hsl(228, 12%, 48%);
+}
+
+.original-price{
+    color: hsl(228, 12%, 48%);
+}
+
+.btn{
+    width: 80%;
+    font-weight: bold;
+}

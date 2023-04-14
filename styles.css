@@ -2,6 +2,14 @@ body{
     background-color: hsl(30, 38%, 92%);
 }
 
+img{
+    border-radius: 10px 0 0 10px;
+}
+
+.cardbody{
+    border-radius: 0 10px 10px 0;
+}
+
 .card-subtitle{
     font-family: monospace;
     letter-spacing: 3px;
